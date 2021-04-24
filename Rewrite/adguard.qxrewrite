@@ -1,0 +1,4 @@
+hostname = mobile-api.adguard.com
+
+# > Adguard Premium.
+^https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/ios_validate_receipt$ url 302 https://raw.githubusercontent.com/echosos/cookies/main/Script/adguard.js

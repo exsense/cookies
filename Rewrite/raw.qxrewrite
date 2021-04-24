@@ -1,0 +1,4 @@
+hostname = raw.githubusercontent.com
+
+# Github Accelerate. (By elecV2)
+^https://raw.githubusercontent.com url 307 https://raw.sends.workers.dev
